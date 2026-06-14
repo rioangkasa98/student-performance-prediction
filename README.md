@@ -35,4 +35,4 @@ If you want to play around with the data or test the model yourself:
 
 1. Clone this repo:
    ```bash
-   git clone [https://github.com/rioangkasa98/student-performance-prediction.git](https://github.com/rioangkasa98/student-performance-prediction.git)
+   git clone https://github.com/rioangkasa98/student-performance-prediction.git
